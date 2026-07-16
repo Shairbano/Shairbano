@@ -10,7 +10,7 @@
 
 ---
 
-##  About Me
+## 🌱 About Me
 
 - 🎓 BSCS Graduate from **International Islamic University Islamabad (IIUI)**, Faculty of Computing
 - 💻 Built **LeafGuard**, an AI-based plant disease detection application, as my Final Year Project
@@ -46,10 +46,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shairbano&show_icons=true&hide_border=true&title_color=2E5077&icon_color=2E5077&text_color=333333&bg_color=ffffff" alt="Shairbano's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shairbano&layout=compact&hide_border=true&title_color=2E5077&text_color=333333&bg_color=ffffff" alt="Top Languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Shairbano&show_icons=true&hide_border=true&title_color=2E5077&icon_color=2E5077&text_color=333333&bg_color=ffffff" alt="Shairbano's GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shairbano&layout=compact&hide_border=true&title_color=2E5077&text_color=333333&bg_color=ffffff" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shairbano&hide_border=true&background=ffffff&ring=2E5077&fire=2E5077&currStreakLabel=2E5077" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shairbano&hide_border=true&background=ffffff&ring=2E5077&fire=2E5077&currStreakLabel=2E5077&sideLabels=2E5077&currStreakNum=2E5077&sideNums=2E5077&dates=666666" alt="GitHub Streak" />
 
 </div>
 
