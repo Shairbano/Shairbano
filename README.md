@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5077,100:5B8FB9&height=200&section=header&text=Hi%20there,%20I'm%20Shairbano%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5F,50:2E5077,100:6FA3D8&height=220&section=header&text=Hi%20there,%20I'm%20Shairbano%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSCS%20Graduate%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 
 ### 🎓 BSCS Graduate &nbsp;|&nbsp; 📊 Aspiring Data Scientist &nbsp;|&nbsp; ⚡ AI & Full-Stack Development Enthusiast
 
@@ -18,16 +18,42 @@
 
 ##  About Me
 
-```yaml
-graduate: "BSCS - International Islamic University Islamabad (IIUI), Faculty of Computing"
-focus: "AI/ML, Full-Stack Web Development, Data Science"
-final_year_project: "LeafGuard — AI-based Plant Disease Detection Application"
-current_build: "QSphere — Multi-panel Research & Dashboard Platform"
-experience:
-  - "National Science and Technology Park — MERN stack, PHP"
-  - "National Telecom Corporation — Active Directory, Access Control"
-languages: ["English", "Urdu"]
-```
+<table>
+<tr>
+<td>🎓</td>
+<td><b>Graduate</b></td>
+<td>BSCS — International Islamic University Islamabad (IIUI), Faculty of Computing</td>
+</tr>
+<tr>
+<td>🎯</td>
+<td><b>Focus</b></td>
+<td>AI/ML &nbsp;•&nbsp; Full-Stack Web Development &nbsp;•&nbsp; Data Science</td>
+</tr>
+<tr>
+<td>🌿</td>
+<td><b>Final Year Project</b></td>
+<td><a href="https://github.com/Shairbano/LeafGuard">LeafGuard</a> — AI-based Plant Disease Detection Application</td>
+</tr>
+<tr>
+<td>🔬</td>
+<td><b>Current Build</b></td>
+<td><a href="https://github.com/Shairbano/QSphere">QSphere</a> — Multi-panel Research & Dashboard Platform</td>
+</tr>
+<tr>
+<td>💼</td>
+<td><b>Experience</b></td>
+<td>National Science and Technology Park (MERN stack, PHP) &nbsp;•&nbsp; National Telecom Corporation (Active Directory, Access Control)</td>
+</tr>
+<tr>
+<td>🗣️</td>
+<td><b>Languages</b></td>
+<td>
+
+![English](https://img.shields.io/badge/English-2E5077?style=flat-square) ![Urdu](https://img.shields.io/badge/Urdu-2E5077?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2E5077&height=3&width=100%" />
 
@@ -41,7 +67,7 @@ languages: ["English", "Urdu"]
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2E5077&height=3&width=100%" />
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -100,6 +126,6 @@ Always building — check my pinned repositories for the latest work.
 
 *Thanks for stopping by! ⭐ from a project is always appreciated.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5077,100:5B8FB9&height=120&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5F,50:2E5077,100:6FA3D8&height=120&section=footer" alt="Footer Banner" width="100%" />
 
 </div>
