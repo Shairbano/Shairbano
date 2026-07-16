@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Shairbano 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E5077&height=180&section=header&text=Hi%20there,%20I'm%20Shairbano%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
 
 ### BSCS Graduate | Aspiring Data Scientist | AI & Full-Stack Development Enthusiast
 
@@ -10,7 +10,7 @@
 
 ---
 
-##  About Me
+## 🌱 About Me
 
 - 🎓 BSCS Graduate from **International Islamic University Islamabad (IIUI)**, Faculty of Computing
 - 💻 Built **LeafGuard**, an AI-based plant disease detection application, as my Final Year Project
@@ -37,19 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-2E5077?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2E5077?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-2E5077?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Shairbano&show_icons=true&hide_border=true&title_color=2E5077&icon_color=2E5077&text_color=333333&bg_color=ffffff" alt="Shairbano's GitHub Stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shairbano&layout=compact&hide_border=true&title_color=2E5077&text_color=333333&bg_color=ffffff" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shairbano&hide_border=true&background=ffffff&ring=2E5077&fire=2E5077&currStreakLabel=2E5077&sideLabels=2E5077&currStreakNum=2E5077&sideNums=2E5077&dates=666666" alt="GitHub Streak" />
 
 </div>
 
@@ -90,5 +77,7 @@ A full-stack employee management system built to handle organizational records a
 ![Profile Views](https://komarev.com/ghpvc/?username=Shairbano&color=2E5077&style=for-the-badge&label=PROFILE+VIEWS)
 
 *Thanks for stopping by! ⭐ from a project is always appreciated.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E5077&height=100&section=footer" alt="Footer Banner" />
 
 </div>
