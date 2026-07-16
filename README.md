@@ -10,7 +10,7 @@
 
 ---
 
-## 🌱 About Me
+##  About Me
 
 - 🎓 BSCS Graduate from **International Islamic University Islamabad (IIUI)**, Faculty of Computing
 - 💻 Built **LeafGuard**, an AI-based plant disease detection application, as my Final Year Project
