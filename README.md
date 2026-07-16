@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Shairbano 👋
+# Hi there, I'm Shairbano 
 
 ### BSCS Graduate | Aspiring Data Scientist | AI & Full-Stack Development Enthusiast
 
