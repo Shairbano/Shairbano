@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5F,50:2E5077,100:6FA3D8&height=220&section=header&text=Hi%20there,%20I'm%20Shairbano%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSCS%20Graduate%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9B8E,50:5B4B8A,100:2E1F4E&height=220&section=header&text=Hi%20there,%20I'm%20Shairbano%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSCS%20Graduate%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 
 ### 🎓 BSCS Graduate &nbsp;|&nbsp; 📊 Aspiring Data Scientist &nbsp;|&nbsp; ⚡ AI & Full-Stack Development Enthusiast
 
@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2E5077&height=3&width=100%" />
 
-##  About Me
+## 🌱 About Me
 
 <table>
 <tr>
@@ -126,6 +126,6 @@ Always building — check my pinned repositories for the latest work.
 
 *Thanks for stopping by! ⭐ from a project is always appreciated.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5F,50:2E5077,100:6FA3D8&height=120&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9B8E,50:5B4B8A,100:2E1F4E&height=120&section=footer&animation=fadeIn" alt="Footer Banner" width="100%" />
 
 </div>
