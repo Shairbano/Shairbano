@@ -32,12 +32,12 @@
 <tr>
 <td>🌿</td>
 <td><b>Final Year Project</b></td>
-<td><a href="https://github.com/Shairbano/LeafGuard">LeafGuard</a> — AI-based Plant Disease Detection Application</td>
+<td><a href="https://leaf-guard-two.vercel.app/">LeafGuard</a> — AI-based Plant Disease Detection Application</td>
 </tr>
 <tr>
 <td>🔬</td>
 <td><b>Current Build</b></td>
-<td><a href="https://github.com/Shairbano/QSphere">QSphere</a> — Multi-panel Research & Dashboard Platform</td>
+<td>QSphere — Multi-panel Research & Dashboard Platform</td>
 </tr>
 <tr>
 <td>💼</td>
@@ -73,7 +73,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 [LeafGuard](https://github.com/Shairbano/LeafGuard)
+### 🌿 [LeafGuard](https://leaf-guard-two.vercel.app/)
 AI-based plant disease detection application — Final Year Project. React frontend, Node.js/Express middle layer, and a Python FastAPI backend for model inference with Grad-CAM visual explanations.
 
 ![React](https://img.shields.io/badge/-React-2E5077?style=flat-square&logo=react&logoColor=white)
@@ -84,7 +84,7 @@ AI-based plant disease detection application — Final Year Project. React front
 </td>
 <td width="50%" valign="top">
 
-### 🔬 [QSphere](https://github.com/Shairbano/QSphere)
+### 🔬 QSphere
 A multi-panel research and dashboard platform featuring routing, authentication, and admin dashboard architecture built with React and Tailwind CSS.
 
 ![React](https://img.shields.io/badge/-React-2E5077?style=flat-square&logo=react&logoColor=white)
