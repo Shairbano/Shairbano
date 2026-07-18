@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2E5077&height=3&width=100%" />
 
-## 🌱 About Me
+##  About Me
 
 <table>
 <tr>
