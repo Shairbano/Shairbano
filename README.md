@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,fastapi,mongodb,php,tailwind,git,github,vscode&theme=light" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,fastapi,flask,mongodb,php,tailwind,git,github,vscode&theme=light" alt="Tech Stack Icons" />
 
 </div>
 
@@ -104,8 +104,12 @@ A full-stack employee management system built to handle organizational records a
 </td>
 <td width="50%" valign="top">
 
-### ✨ More on the way
-Always building — check my pinned repositories for the latest work.
+### 📝 [Flask To-Do App](https://github.com/Shairbano/your-repo-name)
+A Flask-based To-Do list application with user authentication — signup/login with hashed passwords, and per-user task management (add, update status, delete).
+
+![Flask](https://img.shields.io/badge/-Flask-2E5077?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-2E5077?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-2E5077?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 </tr>
