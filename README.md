@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2E5077&height=3&width=100%" />
 
-##  About Me
+## About Me
 
 <table>
 <tr>
@@ -32,17 +32,22 @@
 <tr>
 <td>🌿</td>
 <td><b>Final Year Project</b></td>
-<td><a href="https://leaf-guard-two.vercel.app/">LeafGuard</a> — AI-based Plant Disease Detection Application</td>
+<td><a href="https://leaf-guard-two.vercel.app/">LeafGuard</a> — AI-based Plant Disease Detection Application (React + Node/Express + Python FastAPI, with Grad-CAM visual explanations)</td>
 </tr>
 <tr>
 <td>🔬</td>
 <td><b>Current Build</b></td>
-<td>QSphere — Multi-panel Research & Dashboard Platform</td>
+<td>QSphere — a collaborative research platform for Quantum Community Pakistan, with role-based dashboards for admins and employees</td>
 </tr>
 <tr>
 <td>💼</td>
 <td><b>Experience</b></td>
 <td>National Science and Technology Park (MERN stack, PHP) &nbsp;•&nbsp; National Telecom Corporation (Active Directory, Access Control)</td>
+</tr>
+<tr>
+<td>📜</td>
+<td><b>Certifications</b></td>
+<td>Data Science & AI (NAVTTC, Prime Minister's Youth Skills Development Program) &nbsp;•&nbsp; Freelancing (DigiSkills.pk)</td>
 </tr>
 <tr>
 <td>🗣️</td>
@@ -74,7 +79,7 @@
 <td width="50%" valign="top">
 
 ### 🌿 [LeafGuard](https://leaf-guard-two.vercel.app/)
-AI-based plant disease detection application — Final Year Project. React frontend, Node.js/Express middle layer, and a Python FastAPI backend for model inference with Grad-CAM visual explanations.
+AI-based plant disease detection application — Final Year Project. React frontend, Node.js/Express middle layer, and a Python FastAPI backend for model inference (TensorFlow/ResNet50/VGG/CNN) with Grad-CAM visual explanations. Fully localized with an Urdu translation layer.
 
 ![React](https://img.shields.io/badge/-React-2E5077?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-2E5077?style=flat-square&logo=node.js&logoColor=white)
@@ -85,7 +90,7 @@ AI-based plant disease detection application — Final Year Project. React front
 <td width="50%" valign="top">
 
 ### 🔬 QSphere
-A multi-panel research and dashboard platform featuring routing, authentication, and admin dashboard architecture built with React and Tailwind CSS.
+A collaborative research and dashboard platform for Quantum Community Pakistan — managing research groups, projects, and tasks with role-based (Admin/Employee) access, routing, and authentication, built with React and Tailwind CSS.
 
 ![React](https://img.shields.io/badge/-React-2E5077?style=flat-square&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-2E5077?style=flat-square&logo=tailwindcss&logoColor=white)
