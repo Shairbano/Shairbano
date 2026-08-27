@@ -118,6 +118,19 @@ A Flask-based To-Do list application with user authentication — signup/login w
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [Online Book Store (SQL)](https://github.com/Shairbano/Online-Book-Store-SQL)
+A relational database project modeling an online book store — schema design, queries, and data management for books, customers, and orders.
+
+![SQL](https://img.shields.io/badge/-SQL-2E5077?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2E5077&height=3&width=100%" />
