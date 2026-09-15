@@ -20,7 +20,7 @@
 - 📊 Certified in **Data Science & Artificial Intelligence** (NAVTTC — Prime Minister's Youth Skills Development Program)
 - 🧠 Focused on applied ML/DL: model training, evaluation, explainability (Grad-CAM), and deployment
 - 🌿 Final Year Project — **LeafGuard**, an AI-based plant disease detection system using CNNs (ResNet50/VGG/TensorFlow)
-- 🔭 Currently building **QSphere**, a research-management dashboard platform for Quantum Community Pakistan
+- 📉 Built an end-to-end **Customer Churn Analysis** project — EDA, reporting, and churn-risk insights
 - 💼 Experience across MERN-stack development, PHP, and Windows Active Directory / access control
 - 🌱 Actively exploring free/open ML tooling — Hugging Face, Groq, Ollama, and Google Colab GPU workflows
 - 📍 Based in Islamabad, Pakistan — open to Data Science & Software Development roles
