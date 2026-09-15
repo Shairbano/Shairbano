@@ -21,7 +21,6 @@
 - 🧠 Focused on applied ML/DL: model training, evaluation, explainability (Grad-CAM), and deployment
 - 🌿 Final Year Project — **LeafGuard**, an AI-based plant disease detection system using CNNs (ResNet50/VGG/TensorFlow)
 - 📉 Built an end-to-end **Customer Churn Analysis** project — EDA, reporting, and churn-risk insights
-- 💼 Experience across MERN-stack development, PHP, and Windows Active Directory / access control
 - 🌱 Actively exploring free/open ML tooling — Hugging Face, Groq, Ollama, and Google Colab GPU workflows
 - 📍 Based in Islamabad, Pakistan — open to Data Science & Software Development roles
 
@@ -56,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,js,react,nodejs,express,mongodb,php,git,github,vscode&theme=light" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,js,react,nodejs,express,mongodb,php,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
 
 </div>
 
@@ -88,11 +87,12 @@ AI-based plant disease detection app — Final Year Project. CNN models (TensorF
 </td>
 <td width="50%" valign="top">
 
-### 🔬 QSphere
-A collaborative research and dashboard platform for Quantum Community Pakistan — role-based (Admin/Employee) access, routing, and authentication for managing research groups, projects, and tasks. Built with React and Tailwind CSS.
+### 📉 [Customer Churn Analysis](https://github.com/Shairbano/Customer-Churn-Analysis)
+A detailed report-driven analysis of customer churn prediction — exploratory data analysis, visualizations, and a written report identifying key churn-risk factors, organized across dedicated data, notebook, and reporting folders.
 
-![React](https://img.shields.io/badge/-React-0F9B8E?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0F9B8E?style=flat-square&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0F9B8E?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-0F9B8E?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-0F9B8E?style=flat-square&logo=jupyter&logoColor=white)
 
 </td>
 </tr>
@@ -138,7 +138,7 @@ Flask-based To-Do app with authenticated, per-user task management — hashed pa
 
 | | |
 |---|---|
-| 🎓 **Education** | BSCS, IIUI Faculty of Computing (CGPA 3.6) &nbsp;•&nbsp; ICS, Global College System (91%) |
+| 🎓 **Education** | BSCS, IIUI Faculty of Computing (CGPA 3.6) |
 | 📜 **Certifications** | Data Science & AI — NAVTTC (PM's Youth Skills Development Program) &nbsp;•&nbsp; Freelancing — DigiSkills.pk |
 | 💼 **Experience** | National Science and Technology Park (MERN, PHP) &nbsp;•&nbsp; National Telecom Corporation (Active Directory, Access Control) |
 | 🗣️ **Languages** | English, Urdu |
