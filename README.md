@@ -1,76 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9B8E,50:5B4B8A,100:2E1F4E&height=220&section=header&text=Hi%20there,%20I'm%20Shairbano%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSCS%20Graduate%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:2E5077,100:0F9B8E&height=210&section=header&text=Shairbano&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20%2F%20AI%20Engineer%20%7C%20BSCS%20Graduate&descAlignY=55&descSize=18" alt="Header Banner" width="100%" />
 
-### 🎓 BSCS Graduate &nbsp;|&nbsp; 📊 Aspiring Data Scientist &nbsp;|&nbsp; ⚡ AI & Full-Stack Development Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E5077&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications+%F0%9F%A7%A0;React+%7C+Node.js+%7C+Python+%7C+MongoDB;LeafGuard+-+AI+Plant+Disease+Detection+%F0%9F%8C%BF;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=0F9B8E&center=true&vCenter=true&width=680&lines=Turning+data+into+decisions+%F0%9F%93%88;Python+%7C+ML%2FDL+%7C+EDA+%7C+Model+Deployment;LeafGuard+-+CNNs+for+Plant+Disease+Detection+%F0%9F%8C%BF;NAVTTC-Certified+Data+Science+%26+AI+Practitioner" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2E5077?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shair-bano/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-2E5077?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shairbano)
-![Profile Views](https://komarev.com/ghpvc/?username=Shairbano&color=2E5077&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F9B8E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shair-bano/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0F9B8E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shairbano)
+![Profile Views](https://komarev.com/ghpvc/?username=Shairbano&color=0F9B8E&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2E5077&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F9B8E&height=3&width=100%" />
 
-## About Me
+## 📌 About Me
+
+- 🎓 BSCS Graduate — International Islamic University Islamabad (IIUI), Faculty of Computing, CGPA 3.6
+- 📊 Certified in **Data Science & Artificial Intelligence** (NAVTTC — Prime Minister's Youth Skills Development Program)
+- 🧠 Focused on applied ML/DL: model training, evaluation, explainability (Grad-CAM), and deployment
+- 🌿 Final Year Project — **LeafGuard**, an AI-based plant disease detection system using CNNs (ResNet50/VGG/TensorFlow)
+- 🔭 Currently building **QSphere**, a research-management dashboard platform for Quantum Community Pakistan
+- 💼 Experience across MERN-stack development, PHP, and Windows Active Directory / access control
+- 🌱 Actively exploring free/open ML tooling — Hugging Face, Groq, Ollama, and Google Colab GPU workflows
+- 📍 Based in Islamabad, Pakistan — open to Data Science & Software Development roles
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F9B8E&height=3&width=100%" />
+
+## 🧪 Data Science & ML Highlights
 
 <table>
 <tr>
-<td>🎓</td>
-<td><b>Graduate</b></td>
-<td>BSCS — International Islamic University Islamabad (IIUI), Faculty of Computing</td>
-</tr>
-<tr>
-<td>🎯</td>
-<td><b>Focus</b></td>
-<td>AI/ML &nbsp;•&nbsp; Full-Stack Web Development &nbsp;•&nbsp; Data Science</td>
-</tr>
-<tr>
-<td>🌿</td>
-<td><b>Final Year Project</b></td>
-<td><a href="https://leaf-guard-two.vercel.app/">LeafGuard</a> — AI-based Plant Disease Detection Application (React + Node/Express + Python FastAPI, with Grad-CAM visual explanations)</td>
-</tr>
-<tr>
-<td>🔬</td>
-<td><b>Current Build</b></td>
-<td>QSphere — a collaborative research platform for Quantum Community Pakistan, with role-based dashboards for admins and employees</td>
-</tr>
-<tr>
-<td>💼</td>
-<td><b>Experience</b></td>
-<td>National Science and Technology Park (MERN stack, PHP) &nbsp;•&nbsp; National Telecom Corporation (Active Directory, Access Control)</td>
-</tr>
-<tr>
-<td>📜</td>
-<td><b>Certifications</b></td>
-<td>Data Science & AI (NAVTTC, Prime Minister's Youth Skills Development Program) &nbsp;•&nbsp; Freelancing (DigiSkills.pk)</td>
-</tr>
-<tr>
-<td>🗣️</td>
-<td><b>Languages</b></td>
-<td>
+<td width="60%" valign="top">
 
-![English](https://img.shields.io/badge/English-2E5077?style=flat-square) ![Urdu](https://img.shields.io/badge/Urdu-2E5077?style=flat-square)
+**Model Development**
+- Trained and evaluated CNN architectures (ResNet50, VGG, custom CNNs) for image classification
+- Applied Grad-CAM for visual model explainability in a production-facing app
+- Built and debugged full ML inference pipelines: FastAPI model server → Node/Express middle layer → React client
+
+</td>
+<td width="40%" valign="top">
+
+**Engineering for ML**
+- Diagnosed environment/dependency issues (e.g. PyTorch/Python version conflicts)
+- Managed data pipelines with MongoDB Atlas
+- Comfortable across the full stack needed to actually ship a model, not just train one
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2E5077&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F9B8E&height=3&width=100%" />
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,fastapi,flask,mongodb,php,tailwind,git,github,vscode&theme=light" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,js,react,nodejs,express,mongodb,php,git,github,vscode&theme=light" alt="Tech Stack Icons" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2E5077&height=3&width=100%" />
+<div align="center">
+
+![NumPy](https://img.shields.io/badge/-NumPy-0F9B8E?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-0F9B8E?style=flat-square&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-0F9B8E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0F9B8E?style=flat-square&logo=tensorflow&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F9B8E&height=3&width=100%" />
 
 ## 🚀 Featured Projects
 
@@ -79,42 +78,21 @@
 <td width="50%" valign="top">
 
 ### 🌿 [LeafGuard](https://leaf-guard-two.vercel.app/)
-AI-based plant disease detection application — Final Year Project. React frontend, Node.js/Express middle layer, and a Python FastAPI backend for model inference (TensorFlow/ResNet50/VGG/CNN) with Grad-CAM visual explanations. Fully localized with an Urdu translation layer.
+AI-based plant disease detection app — Final Year Project. CNN models (TensorFlow/ResNet50/VGG) served via a Python FastAPI backend, with Grad-CAM visual explanations surfaced through a React frontend. Fully localized with a 1,000+ key Urdu translation layer.
 
-![React](https://img.shields.io/badge/-React-2E5077?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-2E5077?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-2E5077?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-2E5077?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0F9B8E?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0F9B8E?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0F9B8E?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-0F9B8E?style=flat-square&logo=react&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔬 QSphere
-A collaborative research and dashboard platform for Quantum Community Pakistan — managing research groups, projects, and tasks with role-based (Admin/Employee) access, routing, and authentication, built with React and Tailwind CSS.
+A collaborative research and dashboard platform for Quantum Community Pakistan — role-based (Admin/Employee) access, routing, and authentication for managing research groups, projects, and tasks. Built with React and Tailwind CSS.
 
-![React](https://img.shields.io/badge/-React-2E5077?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-2E5077?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👥 [Employee Management System](https://github.com/Shairbano/Employee-Management-System)
-A full-stack employee management system built to handle organizational records and workflows.
-
-![React](https://img.shields.io/badge/-React-2E5077?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-2E5077?style=flat-square&logo=node.js&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 [Flask To-Do App](https://github.com/Shairbano/your-repo-name)
-A Flask-based To-Do list application with user authentication — signup/login with hashed passwords, and per-user task management (add, update status, delete).
-
-![Flask](https://img.shields.io/badge/-Flask-2E5077?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-2E5077?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-2E5077?style=flat-square&logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/-React-0F9B8E?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0F9B8E?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 </tr>
@@ -122,9 +100,30 @@ A Flask-based To-Do list application with user authentication — signup/login w
 <td width="50%" valign="top">
 
 ### 📚 [Online Book Store (SQL)](https://github.com/Shairbano/Online-Book-Store-SQL)
-A relational database project modeling an online book store — schema design, queries, and data management for books, customers, and orders.
+Relational database project modeling an online book store — schema design, normalized tables, and queries for books, customers, and orders.
 
-![SQL](https://img.shields.io/badge/-SQL-2E5077?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-0F9B8E?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 👥 [Employee Management System](https://github.com/Shairbano/Employee-Management-System)
+Full-stack system for handling organizational records and workflows.
+
+![React](https://img.shields.io/badge/-React-0F9B8E?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-0F9B8E?style=flat-square&logo=node.js&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Flask To-Do App](https://github.com/Shairbano/your-repo-name)
+Flask-based To-Do app with authenticated, per-user task management — hashed passwords, add/update/delete tasks.
+
+![Flask](https://img.shields.io/badge/-Flask-0F9B8E?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0F9B8E?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-0F9B8E?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -133,21 +132,26 @@ A relational database project modeling an online book store — schema design, q
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2E5077&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F9B8E&height=3&width=100%" />
 
-## 🌐 Connect With Me
+## 🎓 Background
+
+| | |
+|---|---|
+| 🎓 **Education** | BSCS, IIUI Faculty of Computing (CGPA 3.6) &nbsp;•&nbsp; ICS, Global College System (91%) |
+| 📜 **Certifications** | Data Science & AI — NAVTTC (PM's Youth Skills Development Program) &nbsp;•&nbsp; Freelancing — DigiSkills.pk |
+| 💼 **Experience** | National Science and Technology Park (MERN, PHP) &nbsp;•&nbsp; National Telecom Corporation (Active Directory, Access Control) |
+| 🗣️ **Languages** | English, Urdu |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F9B8E&height=3&width=100%" />
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E5077?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shair-bano/)
-[![GitHub](https://img.shields.io/badge/GitHub-2E5077?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shairbano)
-
-</div>
-
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F9B8E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shair-bano/)
+[![GitHub](https://img.shields.io/badge/GitHub-0F9B8E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shairbano)
 
 *Thanks for stopping by! ⭐ from a project is always appreciated.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9B8E,50:5B4B8A,100:2E1F4E&height=120&section=footer&animation=fadeIn" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:2E5077,100:0F9B8E&height=120&section=footer&animation=fadeIn" alt="Footer Banner" width="100%" />
 
 </div>
